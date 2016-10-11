@@ -1,0 +1,6 @@
+framework module URLUtilities {
+  umbrella header "URLUtilities-umbrella.h"
+
+  export *
+  module * { export * }
+}

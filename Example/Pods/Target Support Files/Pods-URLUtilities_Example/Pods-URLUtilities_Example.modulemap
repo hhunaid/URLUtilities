@@ -1,0 +1,6 @@
+framework module Pods_URLUtilities_Example {
+  umbrella header "Pods-URLUtilities_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

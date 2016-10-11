@@ -22,7 +22,7 @@ pod "URLUtilities"
 
 ## Author
 
-Hunaid Hassan, hunaid.hassan@confiz.com
+Hunaid Hassan, hhunaid@gmail.com
 
 ## License
 

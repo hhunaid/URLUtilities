@@ -1,0 +1,22 @@
+{
+  "name": "URLUtilities",
+  "version": "0.1.0",
+  "summary": "A short description of URLUtilities.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/URLUtilities",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hunaid Hassan": "hunaid.hassan@confiz.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/URLUtilities.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "URLUtilities/Classes/**/*"
+}

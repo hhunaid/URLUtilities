@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'URLUtilities'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of URLUtilities.'
+  s.summary          = 'A set of tools to make it easier to work with URL query parameters and path components'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,15 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    This pod makes it easier to access and mutate query parameters of URLs.
+    Access query parameters via swift subscript notaion.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/URLUtilities'
+  s.homepage         = 'https://github.com/pureblood/URLUtilities'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Hunaid Hassan' => 'hunaid.hassan@confiz.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/URLUtilities.git', :tag => s.version.to_s }
+  s.author           = { 'Hunaid Hassan' => 'hhunaid@gmail.com' }
+  s.source           = { :git => 'https://github.com/pureblood/URLUtilities.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
