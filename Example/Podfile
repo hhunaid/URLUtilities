@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'URLUtilities_Example' do
+  pod 'URLUtilities', :path => '../'
+
+  target 'URLUtilities_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
