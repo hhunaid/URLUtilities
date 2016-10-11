@@ -1,6 +1,6 @@
 # URLUtilities
 
-[![CI Status](http://img.shields.io/travis/Hunaid Hassan/URLUtilities.svg?style=flat)](https://travis-ci.org/Hunaid Hassan/URLUtilities)
+[![CI Status](http://img.shields.io/travis/pureblood/URLUtilities.svg?style=flat)](https://travis-ci.org/pureblood/URLUtilities)
 [![Version](https://img.shields.io/cocoapods/v/URLUtilities.svg?style=flat)](http://cocoapods.org/pods/URLUtilities)
 [![License](https://img.shields.io/cocoapods/l/URLUtilities.svg?style=flat)](http://cocoapods.org/pods/URLUtilities)
 [![Platform](https://img.shields.io/cocoapods/p/URLUtilities.svg?style=flat)](http://cocoapods.org/pods/URLUtilities)
